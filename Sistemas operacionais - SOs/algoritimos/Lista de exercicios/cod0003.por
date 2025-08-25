@@ -7,6 +7,6 @@ programa {
     leia(nome)
     escreva("Digite o valor do salario do funcionario\n")
     leia(salario)
-    escreva("olá")
+    escreva("olá" ,nome," o valor do seu salrio e de :",salario)
   }
 }
