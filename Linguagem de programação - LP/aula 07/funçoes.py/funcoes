@@ -1,0 +1,13 @@
+def mostra_linha():
+    print("-"*30)
+
+
+mostra_linha()
+
+
+print("quiz-feira cultural")
+print("-"*30)
+print("qustão 1 ")
+print("-"*30)
+print("questão 2")
+print("-"*30)
